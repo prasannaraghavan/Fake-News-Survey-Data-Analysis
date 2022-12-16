@@ -1,1 +1,4 @@
 # Data-Science
+This project is inspired by the BuzzFeed article “Most Americans Who See Fake News Believe It, New Survey Says” . It is also claimed to be the first large-scale public opinion survey on fake news conducted which also had a major effect on politics on a global level. According to the article, nearly 75% of the American adult population thinks that the fake news printed is accurate. Further, it also mentions that a majority of the adult population also use Facebook as the source for the news which shouldn’t be the case as anyone is free to post whatever they like without any supervision which implies that there is more chance to mislead the consumers with fake news.
+
+	With the given data, we plan on visualizing the correlation between the demographic data and the willingness to believe the fake news, and we also plan to train a model to predict a person’s willingness to believe fake news based on the demographic information provided in the survey.
