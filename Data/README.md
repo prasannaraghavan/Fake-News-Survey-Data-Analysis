@@ -1,0 +1,1 @@
+To start, we downloaded the two csv files from the github repository linked in our Sources section below (the Jupyter notebook will download the data from github for you). We needed to understand the structure of the data first because the csv’s were not in the same table format, despite representing overlapping information.
